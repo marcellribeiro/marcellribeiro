@@ -1,4 +1,4 @@
-## Hello, I'm Marcell and nice to meet u =]
+## Hello, I'm Marcell and nice to meet u 😎
 <div>
  <a href="https://github.com/marcellribeiro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcellribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
