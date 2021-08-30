@@ -1,8 +1,11 @@
 ## Hello, I'm Marcell and nice to meet u =]
- <div>
-  <a href="https://github.com/marcellribeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcellribeiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellribeiro&layout=compact&langs_count=7&theme=vue-dark"/>
+<div>
+ <a href="https://github.com/marcellribeiro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcellribeiro&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+ </a>
+ <a href="https://github.com/marcellribeiro">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcellribeiro&layout=compact&langs_count=7&theme=vue-dark"/>
+ </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
